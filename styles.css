@@ -1,6 +1,6 @@
 /* Style for the whole page */
 body {
-  background-color: #f8feff;
+  background-color: #fae5f2;
   font-family: "Times New Roman", Times, serif;
   margin: 40px;
 }
@@ -8,7 +8,7 @@ body {
 /* Main title */
 h1 {
   text-align: center;
-  color: #6f7bfc;
+  color: #614784;
 }
 
 /* Subheadings */
@@ -34,10 +34,10 @@ p {
 }
 
 #para1 {
-  color: blue;
+  color: rgb(112, 150, 173);
 }
 
 .center {
   text-align: center;
-  color: green;
+  color: rgb(186, 223, 186);
 }
