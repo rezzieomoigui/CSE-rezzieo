@@ -1,0 +1,43 @@
+/* Style for the whole page */
+body {
+  background-color: #f8feff;
+  font-family: "Times New Roman", Times, serif;
+  margin: 40px;
+}
+
+/* Main title */
+h1 {
+  text-align: center;
+  color: #6f7bfc;
+}
+
+/* Subheadings */
+h2 {
+  color: #333366;
+  border-bottom: 2px solid #6f7bfc;
+  padding-bottom: 5px;
+}
+
+/* Section styling */
+.about, .skills, .projects, .contact {
+  margin: 20px auto;
+  width: 80%;
+  background-color: #eef0ff;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+/* Example of class and ID selectors */
+p {
+  color: #222;
+  text-align: left;
+}
+
+#para1 {
+  color: blue;
+}
+
+.center {
+  text-align: center;
+  color: green;
+}
